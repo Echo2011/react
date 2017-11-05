@@ -59,7 +59,7 @@ export default class App extends React.Component {
         style={{ lineHeight: '64px' }}
       >
         <Menu.Item key="1"><Link to='/'>首页</Link></Menu.Item>
-        <Menu.Item key="2"><Link to='/movie/in_theaters/1'>电影列表</Link></Menu.Item>
+        <Menu.Item key="2"><Link to='/movie/in_theaters/1'>列表</Link></Menu.Item>
         <Menu.Item key="3"><Link to='/about'>关于</Link></Menu.Item>
       </Menu>
     </Header>
@@ -73,7 +73,7 @@ export default class App extends React.Component {
       </div>
     </Content>
     <Footer style={{ textAlign: 'center' }}>
-     传智播客 ©2016 Created by 黑马程序员
+     
     </Footer>
   </Layout>
   </Router>)

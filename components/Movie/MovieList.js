@@ -5,7 +5,7 @@ import fetchJsonp from 'fetch-jsonp'
 
 import { Card,Rate,Pagination,Spin } from 'antd';
 
-// 羞羞的铁拳
+// 
 const imgUrl = 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499793218.jpg';
 
 //2. 导出组件
